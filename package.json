@@ -1,0 +1,26 @@
+{
+  "name": "2134-3",
+  "version": "0.0.2",
+  "description": "Learn express.js for robots",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauren-saas/2134-3.git"
+  },
+  "keywords": [
+    "robots",
+    "express"
+  ],
+  "author": "Lauren Risse",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lauren-saas/2134-3/issues"
+  },
+  "homepage": "https://github.com/lauren-saas/2134-3#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
